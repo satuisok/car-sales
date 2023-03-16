@@ -1,0 +1,1087 @@
+<cars>
+<car>
+  <id>1</id>
+  <make>Toyota</make>
+  <model>Camry</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class A</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>25000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.5L</cylvol>
+  <drvtype>Front-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>6</grnumb>
+  <fltype>Regular</fltype>
+  <color>Red</color>
+  <commcolor>Black</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>200 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Toyota</org>
+  <puhcnt>1-800-TOYOTA</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@toyota.com</email>
+  <note>This car has only had one owner and is in excellent condition.</note>
+  <acc>CD player, Bluetooth</acc>
+  <emiss>50</emiss>
+  <eueco>Euro 5</eueco>
+  <weight>3000.50</weight>
+  <tspeed>140</tspeed>
+  <accel>0-60 in 7.5 seconds</accel>
+  <trvolume>15.0 cubic feet</trvolume>
+  <trailerw>1000.50</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/toyota/camry</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>2</id>
+  <make>Toyota</make>
+  <model>Corolla</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Regular</taxclass>
+  <taxper>Yearly</taxper>
+  <vectype>Petrol</vectype>
+  <price>20000</price>
+  <currency>USD</currency>
+  <mileage>1000</mileage>
+  <doors>4</doors>
+  <cylvol>1.8L</cylvol>
+  <drvtype>Front Wheel Drive</drvtype>
+  <grtype>Manual</grtype>
+  <grnumb>6</grnumb>
+  <fltype>Gasoline</fltype>
+  <color>Black</color>
+  <commcolor>Black</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>ABC123456DEF7890</vincode>
+  <faccode>T1234</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>ABS</brksystem>
+  <alarmsystem>Standard</alarmsystem>
+  <power>103 hp</power>
+  <firstreg>2022-01-15</firstreg>
+  <lastinsp>2022-01-20</lastinsp>
+  <warranty>3 years</warranty>
+  <warrantydesc>Manufacturer warranty</warrantydesc>
+  <org>Toyota</org>
+  <puhcnt>John Smith</puhcnt>
+  <phone>555-1234567</phone>
+  <email>john.smith@example.com</email>
+  <note>One owner, no accidents</note>
+  <acc>Bluetooth, Rearview Camera</acc>
+  <emiss>120</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>1200.50</weight>
+  <tspeed>200</tspeed>
+  <accel>9.3 sec</accel>
+  <trvolume>400 L</trvolume>
+  <trailerw>500.75</trailerw>
+  <seat>5</seat>
+  <exstart>2022-02-01</exstart>
+  <exend>2022-12-31</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/car</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg</pics>
+  <picsupd>2022-02-01</picsupd>
+  <city>New York</city>
+  <agent>Janet Doe</agent>
+  <vanha>1</vanha>
+</car>
+<car>
+  <id>3</id>
+  <make>BMW</make>
+  <model>X5</model>
+  <type>SUV</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class A</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Hybrid</vectype>
+  <price>55000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.0L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Premium</fltype>
+  <color>White</color>
+  <commcolor>White</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>SUV</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>300 hp</power>
+  <firstreg>2022-02-01</firstreg>
+  <lastinsp>2023-02-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>BMW</org>
+  <puhcnt>1-800-BMW</puhcnt>
+  <phone>555-6789</phone>
+  <email>sales@bmw.com</email>
+  <note>This car is brand new and has never been used before.</note>
+  <acc>Navigation, Leather Seats, Sunroof, Backup Camera</acc>
+  <emiss>50</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>4500.00</weight>
+  <tspeed>160</tspeed>
+  <accel>0-60 in 5.5 seconds</accel>
+  <trvolume>35.0 cubic feet</trvolume>
+  <trailerw>2500.00</trailerw>
+  <seat>7</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car2.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/bmw/x5-2022</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+ </car>
+ <car>
+  <id>4</id>
+  <make>Toyota</make>
+  <model>Corolla</model>
+  <type>Sedan</type>
+  <manfyear>2018</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Hybrid</vectype>
+  <price>20000</price>
+  <currency>USD</currency>
+  <mileage>50000</mileage>
+  <doors>4</doors>
+  <cylvol>1.8L</cylvol>
+  <drvtype>Front-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>7</grnumb>
+  <fltype>Regular</fltype>
+  <color>White</color>
+  <commcolor>Beige</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2018-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>No</alarmsystem>
+  <power>121 hp</power>
+  <firstreg>2018-01-01</firstreg>
+  <lastinsp>2022-01-01</lastinsp>
+  <warranty>No</warranty>
+  <warrantydesc>N/A</warrantydesc>
+  <org>Toyota</org>
+  <puhcnt>1-800-TOYOTA</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@toyota.com</email>
+  <note>This car has been well-maintained and is in great condition.</note>
+  <acc>Backup Camera, Bluetooth, Lane Departure Warning</acc>
+  <emiss>90</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>3000.00</weight>
+  <tspeed>115</tspeed>
+  <accel>0-60 in 10.5 seconds</accel>
+  <trvolume>13.0 cubic feet</trvolume>
+  <trailerw>1000.00</trailerw>
+  <seat>5</seat>
+  <exstart>2018-03-01</exstart>
+  <exend>2022-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/toyota/corolla</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg</pics>
+  <picsupd>2021-04-01</picsupd>
+  <city>Miami</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>5</id>
+  <make>Ferrari</make>
+  <model>488 GTB</model>
+  <type>Coupe</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>275000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>2</doors>
+  <cylvol>3.9L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>7</grnumb>
+  <fltype>Premium</fltype>
+  <color>Red</color>
+  <commcolor>Red</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-15</regnat>
+  <regserial>654321</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Coupe</bodytype>
+  <brksystem>Carbon-ceramic</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>661 hp</power>
+  <firstreg>2022-02-15</firstreg>
+  <lastinsp>2023-02-15</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or unlimited miles</warrantydesc>
+  <org>Ferrari</org>
+  <puhcnt>1-800-FERRARI</puhcnt>
+  <phone>555-6789</phone>
+  <email>sales@ferrari.com</email>
+  <note>This car is a rare find and has been well-maintained by its previous owner.</note>
+  <acc>Carbon fiber interior, Parking camera, Sport exhaust system</acc>
+  <emiss>375</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>3200.00</weight>
+  <tspeed>205</tspeed>
+  <accel>0-60 in 3.0 seconds</accel>
+  <trvolume>8.1 cubic feet</trvolume>
+  <trailerw>0</trailerw>
+  <seat>2</seat>
+  <exstart>2022-05-01</exstart>
+  <exend>2023-05-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/ferrari/488-gtb</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-05-01</picsupd>
+  <city>Miami</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>6</id>
+  <make>Ford</make>
+  <model>Mustang</model>
+  <type>Coupe</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>35000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>2</doors>
+  <cylvol>2.3L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>10</grnumb>
+  <fltype>Regular</fltype>
+  <color>Red</color>
+  <commcolor>Red</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>0987654321</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Coupe</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>310 hp</power>
+  <firstreg>2022-02-01</firstreg>
+  <lastinsp>2023-02-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Ford</org>
+  <puhcnt>1-800-FORD</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@ford.com</email>
+  <note>This car is in excellent condition.</note>
+  <acc>Bluetooth, Backup Camera, Leather Seats</acc>
+  <emiss>85</emiss>
+  <eueco>Euro 5</eueco>
+  <weight>3500.00</weight>
+  <tspeed>155</tspeed>
+  <accel>0-60 in 5.5 seconds</accel>
+  <trvolume>13.5 cubic feet</trvolume>
+  <trailerw>1000.00</trailerw>
+  <seat>4</seat>
+  <exstart>2022-04-01</exstart>
+  <exend>2023-04-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/ford/mustang</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>7</id>
+  <make>Jeep</make>
+  <model>Wrangler</model>
+  <type>SUV</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>35000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>2</doors>
+  <cylvol>3.6L</cylvol>
+  <drvtype>4-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Regular</fltype>
+  <color>Green</color>
+  <commcolor>Green</commcolor>
+  <regnro>JKL123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>11111111111111111</vincode>
+  <faccode>JKL123</faccode>
+  <bodytype>SUV</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>285 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Jeep</org>
+  <puhcnt>1-800-JEEP</puhcnt>
+  <phone>555-6789</phone>
+  <email>sales@jeep.com</email>
+  <note>This car has been well maintained and is in excellent condition.</note>
+  <acc>Navigation, Leather Seats, Bluetooth, Backup Camera</acc>
+  <emiss>200</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>4000.00</weight>
+  <tspeed>100</tspeed>
+  <accel>0-60 in 6.5 seconds</accel>
+  <trvolume>12.9 cubic feet</trvolume>
+  <trailerw>2000.00</trailerw>
+  <seat>4</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/jeep/wrangler</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>Miami</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>8</id>
+  <make>Tesla</make>
+  <model>Model S</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class A</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Electric</vectype>
+  <price>85000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>Electric</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>1</grnumb>
+  <fltype>Electric</fltype>
+  <color>Red</color>
+  <commcolor>Red</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>ABCDEF1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>670 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>Tesla</org>
+  <puhcnt>1-800-822-6232</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@tesla.com</email>
+  <note>This car is in excellent condition and has been well-maintained.</note>
+  <acc>Autopilot, Premium Sound System, Heated Seats, Navigation</acc>
+  <emiss>0</emiss>
+  <eueco>Zero Emissions</eueco>
+  <weight>4500.00</weight>
+  <tspeed>155</tspeed>
+  <accel>0-60 in 2.4 seconds</accel>
+  <trvolume>28.0 cubic feet</trvolume>
+  <trailerw>0.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/tesla/model-s</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>San Francisco</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>9</id>
+  <make>Volvo</make>
+  <model>XC60</model>
+  <type>SUV</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Electric</vectype>
+  <price>58000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>5</doors>
+  <cylvol>NA</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Electric</fltype>
+  <color>White</color>
+  <commcolor>Black</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>ABCDEFGH1234567</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>SUV</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>402 hp</power>
+  <firstreg>2022-02-01</firstreg>
+  <lastinsp>2023-02-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>Volvo Cars</org>
+  <puhcnt>1-800-55-VOLVO</puhcnt>
+  <phone>555-5555</phone>
+  <email>sales@volvocars.com</email>
+  <note>This car is in excellent condition and has advanced safety features.</note>
+  <acc>Navigation, Leather Seats, Sunroof</acc>
+  <emiss>0</emiss>
+  <eueco>NA</eueco>
+  <weight>4500.00</weight>
+  <tspeed>112</tspeed>
+  <accel>0-60 in 5.3 seconds</accel>
+  <trvolume>31.0 cubic feet</trvolume>
+  <trailerw>0.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/volvo/xc60</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>San Francisco</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>10</id>
+  <make>Subaru</make>
+  <model>Impreza</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>25000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.0L</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>6</grnumb>
+  <fltype>Regular</fltype>
+  <color>Blue</color>
+  <commcolor>Blue</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>654321</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>No</alarmsystem>
+  <power>152 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Subaru</org>
+  <puhcnt>1-800-SUBARU</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@subaru.com</email>
+  <note>This car is in excellent condition and has low mileage.</note>
+  <acc>Backup Camera, Apple CarPlay, Android Auto</acc>
+  <emiss>50</emiss>
+  <eueco>Euro 5</eueco>
+  <weight>3000.00</weight>
+  <tspeed>125</tspeed>
+  <accel>0-60 in 8.5 seconds</accel>
+  <trvolume>12.3 cubic feet</trvolume>
+  <trailerw>1000.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-02-01</exstart>
+  <exend>2023-02-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/subaru/impreza</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-05-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>11</id>
+  <make>Peugeot</make>
+  <model>308</model>
+  <type>Hatchback</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Diesel</vectype>
+  <price>23000</price>
+  <currency>EUR</currency>
+  <mileage>5000</mileage>
+  <doors>5</doors>
+  <cylvol>1.5L</cylvol>
+  <drvtype>Front-Wheel Drive</drvtype>
+  <grtype>Manual</grtype>
+  <grnumb>6</grnumb>
+  <fltype>Diesel</fltype>
+  <color>Blue</color>
+  <commcolor>Midnight Blue</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-15</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Hatchback</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>130 hp</power>
+  <firstreg>2022-01-15</firstreg>
+  <lastinsp>2023-01-15</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>2 years or 20,000 miles</warrantydesc>
+  <org>Peugeot</org>
+  <puhcnt>1-800-PEUGEOT</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@peugeot.com</email>
+  <note>This car has very low mileage and is in excellent condition.</note>
+  <acc>Bluetooth, Apple CarPlay, Android Auto</acc>
+  <emiss>95</emiss>
+  <eueco>Euro 6d</eueco>
+  <weight>1200.00</weight>
+  <tspeed>200</tspeed>
+  <accel>0-60 in 9.0 seconds</accel>
+  <trvolume>17.0 cubic feet</trvolume>
+  <trailerw>1500.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-02-01</exstart>
+  <exend>2023-02-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/peugeot/308</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-04-01</picsupd>
+  <city>Paris</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>12</id>
+  <make>Mercedes-Benz</make>
+  <model>C-Class</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>50000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.0L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>9</grnumb>
+  <fltype>Premium</fltype>
+  <color>White</color>
+  <commcolor>White</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>255 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>Mercedes-Benz</org>
+  <puhcnt>1-800-MERCEDES</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@mercedes.com</email>
+  <note>This car is a brand new C-Class with state-of-the-art features.</note>
+  <acc>Navigation, Leather Seats, Sunroof</acc>
+  <emiss>120</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>3500.00</weight>
+  <tspeed>155</tspeed>
+  <accel>0-60 in 6.3 seconds</accel>
+  <trvolume>12.6 cubic feet</trvolume>
+  <trailerw>1500.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/mercedes/c-class</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>13</id>
+  <make>Pontiac</make>
+  <model>Firebird</model>
+  <type>Coupe</type>
+  <manfyear>1987</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Petrol</vectype>
+  <price>12000</price>
+  <currency>USD</currency>
+  <mileage>68000</mileage>
+  <doors>2</doors>
+  <cylvol>5.0L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Manual</grtype>
+  <grnumb>5</grnumb>
+  <fltype>Regular</fltype>
+  <color>Red</color>
+  <commcolor>Red</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>1987-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>9876543210</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Coupe</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>No</alarmsystem>
+  <power>165 hp</power>
+  <firstreg>1987-01-01</firstreg>
+  <lastinsp>2022-01-01</lastinsp>
+  <warranty>No</warranty>
+  <org>Pontiac</org>
+  <puhcnt>1-800-PONTIAC</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@pontiac.com</email>
+  <note>This is a rare classic Pontiac Firebird in good condition with low mileage.</note>
+  <acc>AM/FM radio, Power windows</acc>
+  <emiss>225</emiss>
+  <eueco>Euro 1</eueco>
+  <weight>3300.00</weight>
+  <tspeed>140</tspeed>
+  <accel>0-60 in 7.5 seconds</accel>
+  <trvolume>10.0 cubic feet</trvolume>
+  <trailerw>1000.00</trailerw>
+  <seat>2</seat>
+  <exstart>1987-03-01</exstart>
+  <exend>1988-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/pontiac/firebird</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>1987-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>14</id>
+  <make>Lexus</make>
+  <model>ES</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class A</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>38000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.5L</cylvol>
+  <drvtype>Front-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Regular</fltype>
+  <color>Silver</color>
+  <commcolor>Silver</commcolor>
+  <regnro>DEF456</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>654321</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>DEF456</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>203 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>Lexus</org>
+  <puhcnt>1-800-LEXUS22</puhcnt>
+  <phone>555-6789</phone>
+  <email>sales@lexus.com</email>
+  <note>This car is in excellent condition and has low mileage.</note>
+  <acc>Bluetooth, Backup Camera, Leather Seats</acc>
+  <emiss>69</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>3500.00</weight>
+  <tspeed>143</tspeed>
+  <accel>0-60 in 8.2 seconds</accel>
+  <trvolume>16.7 cubic feet</trvolume>
+  <trailerw>0.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/lexus/es</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>15</id>
+  <make>Bentley</make>
+  <model>Continental GT</model>
+  <type>Coupe</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>250000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>2</doors>
+  <cylvol>6.0L</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Premium</fltype>
+  <color>White</color>
+  <commcolor>White</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Coupe</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>626 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Bentley Motors Limited</org>
+  <puhcnt>1-800-BENTLEY</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@bentley.com</email>
+  <note>This car is in immaculate condition and has been driven sparingly by its previous owner.</note>
+  <acc>Leather Seats, Sunroof, Navigation, Bluetooth</acc>
+  <emiss>105</emiss>
+  <eueco>Euro 6d</eueco>
+  <weight>5000.00</weight>
+  <tspeed>207</tspeed>
+  <accel>0-60 in 3.5 seconds</accel>
+  <trvolume>9.3 cubic feet</trvolume>
+  <trailerw>0.00</trailerw>
+  <seat>4</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/bentley/continental-gt</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>16</id>
+  <make>Jaguar</make>
+  <model>F-Type</model>
+  <type>Coupe</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class C</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>75000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>2</doors>
+  <cylvol>3.0L</cylvol>
+  <drvtype>Rear-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>8</grnumb>
+  <fltype>Premium</fltype>
+  <color>Red</color>
+  <commcolor>Red</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Coupe</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>380 hp</power>
+  <firstreg>2022-02-01</firstreg>
+  <lastinsp>2023-02-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Jaguar</org>
+  <puhcnt>1-800-JAGUAR</puhcnt>
+  <phone>555-6789</phone>
+  <email>sales@jaguar.com</email>
+  <note>This car is in excellent condition and has been well-maintained.</note>
+  <acc>Navigation, Leather Seats, Backup Camera</acc>
+  <emiss>75</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>3500.00</weight>
+  <tspeed>175</tspeed>
+  <accel>0-60 in 4.5 seconds</accel>
+  <trvolume>14.4 cubic feet</trvolume>
+  <trailerw>1000.00</trailerw>
+  <seat>2</seat>
+  <exstart>2022-04-01</exstart>
+  <exend>2023-04-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/jaguar/f-type</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-05-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>17</id>
+  <make>Polestar</make>
+  <model>2</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Electric</vectype>
+  <price>60000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>3.0L</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Single-Speed</grtype>
+  <grnumb>0</grnumb>
+  <fltype>Electric</fltype>
+  <color>Midnight Blue</color>
+  <commcolor>Black</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>ABCDEF123456789</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>408 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>3 years or 36,000 miles</warrantydesc>
+  <org>Polestar</org>
+  <puhcnt>1-800-Polestar</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@polestar.com</email>
+  <note>This car is in excellent condition and has only been driven for a few months.</note>
+  <acc>Navigation, Leather Seats, Sunroof</acc>
+  <emiss>0</emiss>
+  <eueco>Zero Emission</eueco>
+  <weight>4000.00</weight>
+  <tspeed>155</tspeed>
+  <accel>0-60 in 4.5 seconds</accel>
+  <trvolume>12.3 cubic feet</trvolume>
+  <trailerw>0.00</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/polestar/2</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>Los Angeles</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>19</id>
+  <make>Audi</make>
+  <model>A4</model>
+  <type>Sedan</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Electric</vectype>
+  <price>53000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>0.00</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>7</grnumb>
+  <fltype>Electric</fltype>
+  <color>Gray</color>
+  <commcolor>Gray</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-02-01</regnat>
+  <regserial>123456</regserial>
+  <vincode>0987654321</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>Sedan</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>201 hp</power>
+  <firstreg>2022-02-01</firstreg>
+  <lastinsp>2023-02-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>4 years or 50,000 miles</warrantydesc>
+  <org>Audi</org>
+  <puhcnt>1-800-AUDI</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@audi.com</email>
+  <note>This car is a new arrival and is in excellent condition.</note>
+  <acc>Navigation, Leather Seats, Sunroof</acc>
+  <emiss>0</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>4000.00</weight>
+  <tspeed>130</tspeed>
+  <accel>0-60 in 5.8 seconds</accel>
+  <trvolume>13.0 cubic feet</trvolume>
+  <trailerw>1000</trailerw>
+  <seat>5</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/audi/a4</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-05-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>0</vanha>
+</car>
+<car>
+  <id>20</id>
+  <make>Kia</make>
+  <model>Sorento</model>
+  <type>SUV</type>
+  <manfyear>2022</manfyear>
+  <taxclass>Class B</taxclass>
+  <taxper>Annual</taxper>
+  <vectype>Gasoline</vectype>
+  <price>35000</price>
+  <currency>USD</currency>
+  <mileage>5000</mileage>
+  <doors>4</doors>
+  <cylvol>2.5L</cylvol>
+  <drvtype>All-Wheel Drive</drvtype>
+  <grtype>Automatic</grtype>
+  <grnumb>6</grnumb>
+  <fltype>Regular</fltype>
+  <color>Blue</color>
+  <commcolor>Black</commcolor>
+  <regnro>ABC123</regnro>
+  <regnat>2022-01-01</regnat>
+  <regserial>654321</regserial>
+  <vincode>1234567890</vincode>
+  <faccode>ABC123</faccode>
+  <bodytype>SUV</bodytype>
+  <brksystem>Disc</brksystem>
+  <alarmsystem>Yes</alarmsystem>
+  <power>191 hp</power>
+  <firstreg>2022-01-01</firstreg>
+  <lastinsp>2023-01-01</lastinsp>
+  <warranty>Yes</warranty>
+  <warrantydesc>5 years or 60,000 miles</warrantydesc>
+  <org>Kia</org>
+  <puhcnt>1-800-KIA</puhcnt>
+  <phone>555-1234</phone>
+  <email>sales@kia.com</email>
+  <note>This car is in like-new condition.</note>
+  <acc>Backup Camera, Bluetooth, Cruise Control</acc>
+  <emiss>80</emiss>
+  <eueco>Euro 6</eueco>
+  <weight>4500.00</weight>
+  <tspeed>130</tspeed>
+  <accel>0-60 in 8.0 seconds</accel>
+  <trvolume>38.0 cubic feet</trvolume>
+  <trailerw>3500.00</trailerw>
+  <seat>7</seat>
+  <exstart>2022-03-01</exstart>
+  <exend>2023-03-01</exend>
+  <cmpimg>https://example.com/car.jpg</cmpimg>
+  <cmpurl>https://example.com/cars/kia/sorento</cmpurl>
+  <pics>https://example.com/pic1.jpg,https://example.com/pic2.jpg,https://example.com/pic3.jpg</pics>
+  <picsupd>2022-06-01</picsupd>
+  <city>New York</city>
+  <agent>John Doe</agent>
+  <vanha>1</vanha>
+</car>
+ </cars>
+
+
+
